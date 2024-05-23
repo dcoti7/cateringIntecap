@@ -1,0 +1,17 @@
+button {
+    font-family: monospace;
+    background-color: #f3f7fe;
+    color: #609b15;
+    border: none;
+    border-radius: 8px;
+    width: 100px;
+    height: 45px;
+    transition: .3s;
+  }
+  
+  button:hover {
+    background-color:#192c07 ;
+    box-shadow: 0 0 0 5px  #b9ea6c;
+    color: #fff;
+  }
+  
